@@ -88,7 +88,7 @@ namespace prjAlbum.Controllers
                 // 進行登入動作 帶入身分識別物件
                 HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
                 TempData["success"] = "登入成功!";
-                return RedirectToAction("Index", "Admin", member.FRole);
+                return RedirectToAction("Index", "Member", member.FRole);
             }
             else
             {
@@ -101,6 +101,10 @@ namespace prjAlbum.Controllers
         {
             HttpContext.SignOutAsync();
             return RedirectToAction("Index","Home");
+        }
+        public IActionResult NoAuthorization()
+        {
+            return View();
         }
     }
 }
