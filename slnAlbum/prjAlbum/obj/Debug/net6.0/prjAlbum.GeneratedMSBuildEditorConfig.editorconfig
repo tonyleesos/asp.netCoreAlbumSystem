@@ -8,121 +8,121 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = prjAlbum
 build_property.RootNamespace = prjAlbum
-build_property.ProjectDir = E:\aspWebCore\asp.netCoreAlbumSystem\slnAlbum\prjAlbum\
+build_property.ProjectDir = C:\asp.netCoreAlbumSystem\slnAlbum\prjAlbum\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\aspWebCore\asp.netCoreAlbumSystem\slnAlbum\prjAlbum
+build_property.MSBuildProjectDirectory = C:\asp.netCoreAlbumSystem\slnAlbum\prjAlbum
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Error.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Index.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Privacy.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/_ViewImports.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/_ViewStart.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/AlbumCategory.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/AlbumCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxidW1DYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/CategoryCreate.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/CategoryCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/CategoryEdit.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/CategoryEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnlFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/Index.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberCreate.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVyQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberEdit.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVyRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberList.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Admin/MemberList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWVtYmVyTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/AlbumCategory.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/AlbumCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGJ1bUNhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/AlbumUpload.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/AlbumUpload.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGJ1bVVwbG9hZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/Index.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/Login.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/NoAuthorization.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Home/NoAuthorization.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb0F1dGhvcml6YXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Member/AlbumCategory.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Member/AlbumCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEFsYnVtQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Member/Index.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Member/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_AdminLayout.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_Layout.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_MemberLayout.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_MemberLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_ToastPartial.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_ToastPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub2FzdFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/_Viewimports.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/_Viewimports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdpbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/_ViewStart.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/aspWebCore/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Shared/_Layout.cshtml]
+[C:/asp.netCoreAlbumSystem/slnAlbum/prjAlbum/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p2qqgowz1s
